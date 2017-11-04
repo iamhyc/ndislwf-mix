@@ -11,7 +11,7 @@ Signature       = "$Windows NT$"
 Class           = NetService
 ClassGUID       = {4D36E974-E325-11CE-BFC1-08002BE10318}
 ; TODO: Customize this string for your company name
-Provider        = %Msft%
+Provider        = "Team VLC@Lab1112"
 DriverVer       = 
 CatalogFile     = ndislwf-mix.cat
 
@@ -160,9 +160,9 @@ HKR, Parameters, NdisImPlatformBindingOptions,0x00010001,0 ; Subscribe to defaul
 
 [Strings]
 ; TODO: Customize these strings.
-Msft = "<Your manufacturer name>" ;TODO: Replace with your manufacturer name
-ndislwf-mix_Desc = "ndislwf-mix NDIS LightWeight Filter"
-ndislwf-mix_HelpText = "ndislwf-mix NDIS LightWeight Filter"
+Msft = "<init> One Man Show" ;TODO: Replace with your manufacturer name
+ndislwf-mix_Desc = "A NDIS Filter with both Rx inception and Tx sending function."
+ndislwf-mix_HelpText = "A NDIS Filter with both Rx inception and Tx sending function."
 
 
 
