@@ -1,3 +1,7 @@
+FOR THOSE WHO CARES: use **WinDivert** [Link](https://reqrypt.org/windivert.html)
+
+(though it implements your logic in *user space*, it still work fine for <1Gbps throughput)
+
 ## Entry Analysis
 
 ### filter.c
